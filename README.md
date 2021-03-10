@@ -19,4 +19,5 @@ class Test extends React.Component {
 }
 ```
 ## Class Components Lifecycle
-![Uploading dom.png…]()
+![dom](https://user-images.githubusercontent.com/48600357/110586113-e4410800-8186-11eb-9a2e-9544ced53a0e.png)
+
