@@ -5,4 +5,5 @@ React has ability to operate with reusable components. React component are two t
 
 ## Creating a Class Component
 creating a class component has some steps to do:
-1. every class component must start with an upper case name 
+1. every class component must start with an upper case letter.
+2. every component must include `extends React.Component`
