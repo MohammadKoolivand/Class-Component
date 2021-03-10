@@ -12,9 +12,9 @@ creating a class component has some steps to do:
 ## Class Component Sample
 
 ```js
-class Car extends React.Component {
+class Test extends React.Component {
   render() {
-    return <h2>Hi, I am a Car!</h2>;
+    return <h2>This is a class Component</h2>;
   }
 }
 ```
