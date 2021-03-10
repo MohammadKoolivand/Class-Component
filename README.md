@@ -18,3 +18,5 @@ class Test extends React.Component {
   }
 }
 ```
+## Class Components Lifecycle
+![Uploading dom.png…]()
