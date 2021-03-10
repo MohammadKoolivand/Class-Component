@@ -10,3 +10,11 @@ creating a class component has some steps to do:
 3. components must have **`render()`** method also. This method returns an HTML tag
 
 ## Class Component Sample
+
+```js
+class Car extends React.Component {
+  render() {
+    return <h2>Hi, I am a Car!</h2>;
+  }
+}
+```
